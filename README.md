@@ -1,5 +1,5 @@
 ## telegram-linux
-##Build instructions for GYP/CMake under Ubuntu 12.04
+
 
 ###Prepare
 
